@@ -1,0 +1,144 @@
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+
+
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  
+
+}
+
+.sidebar{
+  margin-left: -8px;
+  margin-top: -40px;
+  width:200px;
+  height:120vh;
+  background-color: rgb(255, 255, 255);
+  
+  
+}
+
+.logo{
+  margin-top: 60px;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 40px;
+  height: 70px;
+}
+
+img{
+
+  height: 50px;
+  width: 50px;
+}
+.line{
+  width:0.9px
+
+}
+
+.line2{
+  width:1.5px;
+  height: 740px;
+  margin-left: 200px;
+}
+.search{
+  margin-left: 700px;
+}
+.layout{
+  height: 650px;
+  width: 1060px;
+}
+ .graph{
+  width:700px;
+  height:390px;
+ }
+ .cards{
+  width: 335px;
+ }
+
+ .cards2{
+  width: 535px;
+ }
+ .bottom{
+  height: 240px;
+ }
+
+ .card{
+  width: 160px;
+ }
+
+.medic{
+  margin-left: 68px ;
+ }
+ .medic1{
+  margin-left: 71px;
+ }
+ .medic3{
+  margin-left: 70px;
+ }
+  .medic2{
+    margin-left: 70px;
+  }
+ 
+  .circle{
+    fill: none;
+    stroke: #ddd;
+  }
+
+  .circle2{
+    fill:none;
+    stroke:#1C88EC;
+    strokeLinecap: round;
+    strokeLinejoin: round;
+  }
+
+
+
+  .worth{
+    font-size: 11px;
+    }
+    
+    
+    .left{
+      margin-left: 715px;
+      width: 340px;
+    }
+     .right{
+      width: 1050px;
+      height: 640px;
+     }
+     .green{
+      margin-left: 122px;
+     }
+     .prtext{
+      margin-left: 135px;
+     }
+
+     .graph2{
+      width:700px;
+      height:634px;
+     }
+     .graph1{
+      width:500px;
+      height: 350px;
+     }
+
+     .graph3{
+      width:1045px;
+      height:280px;
+     }
+
+     .bargraph{
+      width:500px;
+    }
+    .bargraph2{
+      width:500px;
+      margin-left: 20px;
+    }
